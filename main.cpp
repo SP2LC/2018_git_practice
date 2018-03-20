@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "こんにちは世界" << std::endl;
+    std::cout << "Welcome to SP2LC" << std::endl;
     return 0;
 }
