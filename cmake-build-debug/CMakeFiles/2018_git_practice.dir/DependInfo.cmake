@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Naha/Git/2018_git_practice/main.cpp" "/Users/Naha/Git/2018_git_practice/cmake-build-debug/CMakeFiles/2018_git_practice.dir/main.cpp.o"
+  "/Users/Naha/Git/forked_2018_git_practice/main.cpp" "/Users/Naha/Git/forked_2018_git_practice/cmake-build-debug/CMakeFiles/2018_git_practice.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
